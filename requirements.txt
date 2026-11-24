@@ -1,0 +1,6 @@
+pymupdf>=1.24
+pandas>=2.2
+python-dotenv>=1.0
+jupyter
+ipykernel
+pytest>=8
